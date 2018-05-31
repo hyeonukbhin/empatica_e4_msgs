@@ -1,0 +1,10 @@
+float32 timestamp
+int32 loop_rate
+int32 count
+int32[] accel_x
+int32[] accel_y
+int32[] accel_z
+float32[] bvp
+float32[] eda
+float32[] ibi
+float32[] skin_temp
