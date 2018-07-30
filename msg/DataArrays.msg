@@ -1,4 +1,4 @@
-float32 timestamp
+float64 timestamp
 int32 loop_rate
 int32 count
 int32[] accel_x
